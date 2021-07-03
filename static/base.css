@@ -176,7 +176,8 @@
   color: black;
   font-family: "Nunito Sans", sans-serif;
   font-size: 22px;
-  font-weight: 400; }
+  font-weight: 400;
+  text-align: center; }
 
 @keyframes animationDown {
   0% {
@@ -262,7 +263,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
 }
 
 .path {
