@@ -47,9 +47,9 @@
   display: flex;
   align-items: center;
   position: relative; }
-  .menu__bell {
+  .menu__cart {
     color: #ccc; }
-    .menu__bell:hover {
+    .menu__cart:hover {
       color: grey; }
   .menu__avatar {
     border-radius: 50%;
