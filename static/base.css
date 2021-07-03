@@ -51,7 +51,7 @@
     color: #ccc; }
     .menu__bell:hover {
       color: grey; }
-  .menu__avatar {
+  .avatarmenu {
     border-radius: 50%;
     width: 40px;
     height: 40px;
@@ -72,7 +72,7 @@
     top: 0;
     width: 40px;
     height: 48px; }
-    .menu__check:hover ~ .menu__avatar {
+    .menu__check:hover ~ .avatarmenu {
       background-color: #FB7E01; }
   .menu .menu__profile {
     display: none;
