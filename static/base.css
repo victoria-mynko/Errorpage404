@@ -89,18 +89,18 @@
     background-color: #fff;
     box-shadow: 0px 0px 8px -2px rgba(0, 0, 0, 0.75);
     font-size: 13px; }
-    .menu .profilemenu_two {
+    .menu .menu__profile--secondary {
       width: 100%;
       color: #ccc;
       letter-spacing: 0.8px;
       margin-bottom: 4px;
       border-bottom: 1px solid #ccc; }
-    .menu .profilemenu_one {
+    .menu .menu__profile--primary {
       color: black;
       text-decoration: none;
       font-weight: 600;
       width: 100%; }
-      .menu .profilemenu_one:hover {
+      .menu .menu__profile--primary:hover {
         background-color: #f9f9f9; }
   .menu__check:checked ~ .menu__profile {
     display: flex; }
