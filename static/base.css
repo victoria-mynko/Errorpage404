@@ -75,12 +75,12 @@
       margin-bottom: 4px;
       border-bottom: 1px solid #ccc; }
     .menu .profileMenu_primary {
-      color: black;
+      color: #606064;
       text-decoration: none;
       font-weight: 600;
       width: 100%; }
       .menu .profileMenu_primary:hover {
-        background-color: #f9f9f9; }
+        background-color: #e2dfdf; }
   .checkMenu:checked ~ .profileMenu {
     display: flex; }
 
