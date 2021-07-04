@@ -75,7 +75,7 @@
       margin-bottom: 4px;
       border-bottom: 1px solid #ccc; }
     .menu .profileMenu_primary {
-      color: #606064;
+      color: #656568;
       text-decoration: none;
       font-weight: 600;
       width: 100%; }
@@ -140,7 +140,7 @@
 
 
 .not-found-message {
-  color: #606064;
+  color: #656568;
   font-family: 'Work Sans', sans-serif;
   font-size: 30px;
   font-weight: 400;
@@ -247,7 +247,6 @@ body {
      fill: transparent;
     stroke-dashoffset:  -200;
   }
-   
   
 }
 
