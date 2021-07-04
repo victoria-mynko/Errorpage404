@@ -258,7 +258,8 @@ body {
 .main{
   
   min-height: 560px;
-  margin: 0px auto;
+  /*margin: 0px auto;*/
+  margin: 0px auto -70px auto;
   width: auto;
   max-width: 460px;
   display: flex;
