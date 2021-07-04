@@ -12,7 +12,7 @@
   max-height: 10%;
   position: fixed;
   top: 0; }
-  .header__logo {
+  /*.header__logo {
     font-size: 32px;
     display: inline-flex;
     align-items: baseline;
@@ -42,7 +42,7 @@
       color: #a9a1a1;
       font-weight: 600;
       text-transform: uppercase;
-      letter-spacing: 3px; }
+      letter-spacing: 3px; }*/
 
 .menu {
   display: flex;
