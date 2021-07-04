@@ -48,11 +48,11 @@
   display: flex;
   align-items: center;
   position: relative; }
-  .menu__cart {
+  .cartMenu {
     color: #ccc; }
-    .menu__cart:hover {
+    .cartMenu:hover {
       color: grey; }
-      .menu__logo {
+      .logoMenu {
         border-radius: 50%;
         width: 40px;
         height: 40px;
